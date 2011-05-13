@@ -1,2 +1,2 @@
-svn checkout https://sip-alg.googlecode.com/svn/trunk/
-√‹¬Î Ts3Dn4pX6WW8
+svn checkout: https://sip-alg.googlecode.com/svn/trunk/
+mm: Ts3Dn4pX6WW8
