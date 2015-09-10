@@ -1,0 +1,2 @@
+本论文是基于Linux 2.6内核的sip穿透,使用的是Linux sip框架
+作者RoyYeah
